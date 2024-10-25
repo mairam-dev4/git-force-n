@@ -1,1 +1,1 @@
-js
+fichier-js
